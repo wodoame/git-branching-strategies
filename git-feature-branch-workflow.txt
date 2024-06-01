@@ -1,0 +1,5 @@
+Create a feature branch
+Upload feature branch to Github
+Create a Pull Request (do code reviews)
+Merge feature branch into master/main branch (mergin happens on github)
+video link: https://www.youtube.com/watch?v=Q1kHG842HoI
